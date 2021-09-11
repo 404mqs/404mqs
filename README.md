@@ -1,8 +1,7 @@
 ## Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ### About Me 📌
-![Metrics](https://metrics.lecoq.io/404mqs?template=classic&repositories.forks=true&base.header=0&languages=1&people=1&lines=1&languages.colors=github&languages.threshold=0%25&people.limit=28&people.size=28&people.types=followers%2C%20following&people.thanks=%20Sebbl0508%20&people.identicons=false&people.shuffle=false&config.timezone=Europe%2FCopenhagen)
-
+![Metrics](https://metrics.lecoq.io/404mqs?template=classic&languages=1&people=1&tweets=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&tweets.attachments=false&tweets.limit=2&tweets.user=.user.twitter&config.timezone=America%2FBuenos_Aires)
 <!--
 **404mqs/404mqs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
