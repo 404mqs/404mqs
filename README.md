@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marcos</h1>
 <h3 align="center">A Computer Engineering student from Argentina</h3>
 
-- 🔭 I’m currently working at **Brubank S.A**
+- 🔭 I’m currently working at **Brubank S.A** as a Data Engineer
 
 - 📫 How to reach me **marcos.montedonico@gmail.com**
 
