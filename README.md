@@ -52,16 +52,6 @@ Currently studying Computer Engineering at UADE.
 
 ---
 
-## Featured Project
-
-<a href="https://github.com/404mqs/datadoctor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=404mqs&repo=datadoctor&theme=tokyonight&hide_border=true" />
-</a>
-
-**Data Doctor** — open-source Databricks agent that finds your slowest notebooks, generates optimized versions using Claude Opus, validates equivalence, and notifies via Slack with one-click approve/reject.
-
----
-
 ## GitHub Stats
 
 <p align="center">
