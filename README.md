@@ -16,12 +16,10 @@ Currently studying Computer Engineering at UADE.
 
 ## Featured Projects
 
-| Project | What it is |
-|---|---|
-| **[sheet-data-toolkit](https://github.com/404mqs/sheet-data-toolkit)** | A framework to enrich and generate datasets directly inside a Google Sheet, backed by any data warehouse. Pluggable `DataBackend` interface + Databricks reference adapter. |
-| **[bedbricks](https://github.com/404mqs/bedbricks)** | Control your Databricks jobs from your phone — a mobile-first Google Apps Script web app for monitoring runs on the go. |
-| **[datadoctor](https://github.com/404mqs/datadoctor)** | An agent that automatically profiles and optimizes slow Databricks notebooks, then proposes validated fixes. |
-| **[bondinauta](https://github.com/404mqs/bondinauta)** | Analytics dashboard for Buenos Aires bus trips — KPIs, real route maps, and a Spotify-Wrapped-style shareable card. [Live demo →](https://404mqs.github.io/bondinauta/) |
+- **[sheet-data-toolkit](https://github.com/404mqs/sheet-data-toolkit)** — enrich and generate datasets directly inside a Google Sheet, backed by any data warehouse. Pluggable `DataBackend` interface + Databricks reference adapter.
+- **[bedbricks](https://github.com/404mqs/bedbricks)** — control your Databricks jobs from your phone, a mobile-first Google Apps Script web app.
+- **[datadoctor](https://github.com/404mqs/datadoctor)** — an agent that automatically profiles and optimizes slow Databricks notebooks.
+- **[bondinauta](https://github.com/404mqs/bondinauta)** — analytics dashboard for Buenos Aires bus trips, Spotify-Wrapped style. [Live demo →](https://404mqs.github.io/bondinauta/)
 
 ---
 
