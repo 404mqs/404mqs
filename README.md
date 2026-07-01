@@ -14,6 +14,17 @@ Currently studying Computer Engineering at UADE.
 
 ---
 
+## Featured Projects
+
+| Project | What it is |
+|---|---|
+| **[sheet-data-toolkit](https://github.com/404mqs/sheet-data-toolkit)** | A framework to enrich and generate datasets directly inside a Google Sheet, backed by any data warehouse. Pluggable `DataBackend` interface + Databricks reference adapter. |
+| **[bedbricks](https://github.com/404mqs/bedbricks)** | Control your Databricks jobs from your phone — a mobile-first Google Apps Script web app for monitoring runs on the go. |
+| **[datadoctor](https://github.com/404mqs/datadoctor)** | An agent that automatically profiles and optimizes slow Databricks notebooks, then proposes validated fixes. |
+| **[bondinauta](https://github.com/404mqs/bondinauta)** | Analytics dashboard for Buenos Aires bus trips — KPIs, real route maps, and a Spotify-Wrapped-style shareable card. [Live demo →](https://404mqs.github.io/bondinauta/) |
+
+---
+
 ## Stack
 
 **Data & Cloud**
@@ -49,15 +60,6 @@ Currently studying Computer Engineering at UADE.
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=404mqs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=404mqs&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</p>
 
 ---
 
